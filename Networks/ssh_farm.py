@@ -41,7 +41,7 @@ def gen_script(runfilename,par1,p1,par2,p2,host):
 
 
 
-###the gubbins
+###the gubbins for a two parameter scan
 def job_sow(): 	
     workingdir=os.getcwd()
     hi=0
